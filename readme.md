@@ -17,7 +17,7 @@ This project automates the process of extracting highlights from a Kindle export
   - [Step 5: Format Highlights into a Word Document](#step-5-format-highlights-into-a-word-document)
 - [Output](#output)
 - [Troubleshooting](#troubleshooting)
-- [License](#license)
+- [Technology Stack](#Technology)
 
 ---
 
@@ -203,7 +203,7 @@ fs.readFile('output.json', 'utf8', async (err, data) => {
 
 
 ---
-## Technology Stack
+## Technology
 - Node.js
 - npm
 - docx
